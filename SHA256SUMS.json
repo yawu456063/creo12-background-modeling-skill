@@ -1,8 +1,10 @@
 {
   ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
-  ".gitignore": "6e629e89d4d12c742f53a65e981d0bb3bc6b913a9118fadcebaefcfb587e719c",
-  "README.md": "d341e20e854d24804762e62e2316fcbd86fc8dec610f07516a7d4f5ad3f711ba",
+  ".gitignore": "7980f0799defa4b987d403dad008205812ea52c3cd783d5bb50b4625e0cd731a",
+  "README.md": "56335ac68d8c0b15b097aeb520416e224ea517c6dd5402a2fb9a31602a79a0cb",
   "skills/creo12-background-modeling/agents/openai.yaml": "1d704e7c197723f742793a7c7eae03b2c396d08c36f25e0693ea6d63d884cf58",
+  "skills/creo12-background-modeling/assets/books/book.json": "492c47e8b7865ad4c50e4b14df633d917fb8d5f1fe8e87bb82609dffb9cb1f5f",
+  "skills/creo12-background-modeling/assets/books/injection-mold-design-zhang-weihe.pdf": "89b7fd4d3f134814d6245f30b48b40d6f8bd3e2bd0e8023e7a1e5226f1e58d80",
   "skills/creo12-background-modeling/assets/java/MoldCupV4.java": "db3ea80145c58aadb1ee49064d8b4ed662f8e55256a192bffb9b36370c32d140",
   "skills/creo12-background-modeling/assets/java/NativeDetailHandle.java": "c06179f50152f81922096403060d973a109d59bc10a164b2353ddb0ce2cfa489",
   "skills/creo12-background-modeling/assets/java/NativeExactBody.java": "bd6b219ea7d7c9ce23b05b7874d0fbebf172c4a3572b026d11e1e11980725b48",
@@ -28,14 +30,16 @@
   "skills/creo12-background-modeling/assets/models/verification.txt": "a03cc04980c3fb7fc9b86a301f64a2defbe87e66fcdd64d5e5d494a835b5cf9d",
   "skills/creo12-background-modeling/assets/models/建模步骤与出模检查.md": "029bad95f4112431c93fda076e736040641f6f80a04cbf8551fe0ed65a16ecc8",
   "skills/creo12-background-modeling/assets/models/模型预览.png": "28a86d39cf18a6323d8fa415b1c1ee2747e0433370b7c206b6d9c838ad687d69",
-  "skills/creo12-background-modeling/references/archive-evidence.md": "f291442517f19565d1516788b1aa8be27854fd9bffcdf5399b6384c19752f4b2",
+  "skills/creo12-background-modeling/references/archive-evidence.md": "9e02cd84ca2454163381fcbb03799d5c45c984defd764bcfff7a0fc52d4616fb",
+  "skills/creo12-background-modeling/references/book-based-dfm.md": "4e0804cc8d3a295f6496daf0bafe3bcb16a1f1531d6e84c9630368f27d50e2f4",
   "skills/creo12-background-modeling/references/evidence/packaged-build-log.txt": "6231d3ea65defcf0c84bba8880c6011fabb7b5800c7a63f6e2900eb6aca41e58",
   "skills/creo12-background-modeling/references/evidence/packaged-pull-test.json": "a9d24039946ba087d94392612fba6d45ac4e9aa0705f2b42bcd13e80f680443e",
   "skills/creo12-background-modeling/references/evidence/packaged-verification.txt": "1b4d04faa6dd75baed7f5c355c481e5b674fa749a4ae120f834151f945aeca10",
   "skills/creo12-background-modeling/references/model-review.md": "029bad95f4112431c93fda076e736040641f6f80a04cbf8551fe0ed65a16ecc8",
   "skills/creo12-background-modeling/references/workflow.md": "7021d19dfd9218399cf8d36b668624d6c3fbed0f41c9fab6da93054ba2b812cd",
+  "skills/creo12-background-modeling/scripts/Get-ReferenceBook.ps1": "3a0ac3e11b9e2a8a390615eaa0de98a86876b247957baeecaa4551e3a13db3eb",
   "skills/creo12-background-modeling/scripts/Invoke-CreoModel.ps1": "dec13488f636ceabf8dd8bfcd4f7cf19127bbb0cc5c6711574fe25338cacb4ce",
   "skills/creo12-background-modeling/scripts/mesh_pull_test.py": "98101cff76005dedaf1410bcffd3088619a3065eb9e6b5001891aef32cf956b6",
   "skills/creo12-background-modeling/scripts/render_mesh_preview.py": "cddb3bcd490f1c6dc53c1a53f89b7e36a19de15e0d70c0080b60a335030ca386",
-  "skills/creo12-background-modeling/SKILL.md": "216167bcc2d1056fade380a46d89f0dc22fc6635dd903f65257e9087e48c427e"
+  "skills/creo12-background-modeling/SKILL.md": "0bacb8fe0ecbda0907666d08ca541cdb9006aebb2f31782e8ce87f70d2185548"
 }

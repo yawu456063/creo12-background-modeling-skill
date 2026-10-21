@@ -1,3 +1,5 @@
 /runs/
 *.class
 __pycache__/
+
+/skills/creo12-background-modeling/assets/books/*.pdf
