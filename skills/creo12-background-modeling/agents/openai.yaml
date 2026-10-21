@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creo 12 后台建模"
+  short_description: "用同步 Java 接口后台生成并验证 Creo 原生零件与装配，附吨吨杯案例"
+  default_prompt: "使用 $creo12-background-modeling 在后台创建 Creo 12 原生模型，并提供源码和验证结果。"

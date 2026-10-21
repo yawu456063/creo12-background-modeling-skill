@@ -1,0 +1,32 @@
+PART dundun_lid_draft_v4.prt volume=30909.997250244633
+PART dundun_o_ring_v3.prt volume=2231.7642951963353
+PART dundun_straw_grommet_v4.prt volume=540.4174908368263
+PART dundun_straw_chamfer_v3.prt volume=7204.8657598897635
+PART dundun_foot_draft_v4.prt volume=25969.50024321176
+BAND_EXPECTED DUNDUN_LOWER_MOUNT_V4B 8224.210895087732 actual=8224.210805862658
+DRAFT dundun_lower_mount_v4b.prt magnitude=1.5 faces=16 before=8224.210805862658 after=7024.28309667219
+PART dundun_lower_mount_v4b.prt volume=7024.28309667219
+BAND_EXPECTED DUNDUN_UPPER_MOUNT_V4B 8505.417231182222 actual=8505.417162212712
+DRAFT dundun_upper_mount_v4b.prt magnitude=1.5 faces=16 before=8505.417162212712 after=7158.168029169143
+PART dundun_upper_mount_v4b.prt volume=7158.168029169143
+PART dundun_lower_liner_v3.prt volume=2133.0157480813104
+PART dundun_upper_liner_v3.prt volume=843.4233797092602
+HANDLE_EXPECTED 15832.61056745 actual=15832.610589537659
+SHELL thickness=2.2 removedFace=15 volumeBefore=15832.610589537659 after=9180.992825842302
+DRAFT dundun_handle_shell_v4.prt magnitude=1.5 faces=24 before=9180.992825842302 after=8332.007109869903
+PART dundun_handle_shell_v4.prt volume=8332.007109869903
+STL_EXPORTED dundun_exact_body.prt
+STL_EXPORTED dundun_lid_draft_v4.prt
+STL_EXPORTED dundun_o_ring_v3.prt
+STL_EXPORTED dundun_straw_grommet_v4.prt
+STL_EXPORTED dundun_straw_chamfer_v3.prt
+STL_EXPORTED dundun_foot_draft_v4.prt
+STL_EXPORTED dundun_lower_mount_v4b.prt
+STL_EXPORTED dundun_upper_mount_v4b.prt
+STL_EXPORTED dundun_lower_liner_v3.prt
+STL_EXPORTED dundun_upper_liner_v3.prt
+STL_EXPORTED dundun_handle_shell_v4.prt
+DEFER_FIX 1 com.ptc.wfc.Implementation.pfcExceptions$XToolkitGeneralError
+ASSEMBLY_SAVED dundun_cup_mold_v4_final.asm components=11
+INTERFERENCES 0
+PASS BUILD volume=160057.14166815064

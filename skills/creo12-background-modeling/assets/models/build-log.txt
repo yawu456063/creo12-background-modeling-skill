@@ -1,0 +1,15 @@
+STL_EXPORTED dundun_exact_body.prt
+STL_EXPORTED dundun_lid_draft_v4.prt
+STL_EXPORTED dundun_o_ring_v3.prt
+STL_EXPORTED dundun_straw_grommet_v4.prt
+STL_EXPORTED dundun_straw_chamfer_v3.prt
+STL_EXPORTED dundun_foot_draft_v4.prt
+STL_EXPORTED dundun_lower_mount_v4b.prt
+STL_EXPORTED dundun_upper_mount_v4b.prt
+STL_EXPORTED dundun_lower_liner_v3.prt
+STL_EXPORTED dundun_upper_liner_v3.prt
+STL_EXPORTED dundun_handle_shell_v4.prt
+DEFER_FIX 2 com.ptc.wfc.Implementation.pfcExceptions$XToolkitGeneralError
+ASSEMBLY_SAVED dundun_cup_mold_v4_final.asm components=11
+INTERFERENCES 0
+PASS BUILD volume=160057.14166815064

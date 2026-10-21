@@ -1,0 +1,29 @@
+[
+  {
+    "file": "dundun_handle_shell_v4.stl",
+    "spacing_mm": 0.12,
+    "valid_rays": 109563,
+    "multi_interval_rays": 0,
+    "max_intersections": 2,
+    "examples": [],
+    "scope": "axial grid screening; not a complete mold release simulation"
+  },
+  {
+    "file": "dundun_lower_mount_v4b.stl",
+    "spacing_mm": 0.12,
+    "valid_rays": 47398,
+    "multi_interval_rays": 0,
+    "max_intersections": 2,
+    "examples": [],
+    "scope": "axial grid screening; not a complete mold release simulation"
+  },
+  {
+    "file": "dundun_upper_mount_v4b.stl",
+    "spacing_mm": 0.12,
+    "valid_rays": 49138,
+    "multi_interval_rays": 0,
+    "max_intersections": 2,
+    "examples": [],
+    "scope": "axial grid screening; not a complete mold release simulation"
+  }
+]
